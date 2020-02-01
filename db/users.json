@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Robert",
+    "email": "robert@gmail.com",
+    "createdAt": "2020-01-15"
+  },
+  {
+    "id": "2",
+    "name": "Jacob",
+    "email": "jacob@gmail.com",
+    "createdAt": "2019-12-22"
+  },
+  {
+    "id": "3",
+    "name": "Alex",
+    "email": "alex@gmail.com",
+    "createdAt": "2020-01-20"
+  },
+  {
+    "id": "4",
+    "name": "Sam",
+    "email": "sam@gmail.com",
+    "createdAt": "2020-01-31"
+  }
+]
