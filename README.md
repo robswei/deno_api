@@ -10,3 +10,4 @@ Database consists of a local JSON file
 | Method | Route | Response |
 | --- | --- | --- |
 | `GET` | `/users` | Return all users in db |
+| `POST` | `/users` | Creates a user and stores into db |
