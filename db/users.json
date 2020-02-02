@@ -1,26 +1,68 @@
 [
   {
-    "id": "1",
-    "name": "Robert",
-    "email": "robert@gmail.com",
-    "createdAt": "2020-01-15"
-  },
-  {
-    "id": "2",
-    "name": "Jacob",
-    "email": "jacob@gmail.com",
-    "createdAt": "2019-12-22"
-  },
-  {
-    "id": "3",
+    "id": "cc979854-9e06-4de3-88d0-3ff020baba4e",
     "name": "Alex",
     "email": "alex@gmail.com",
-    "createdAt": "2020-01-20"
+    "favorite_movie": {
+      "popularity": 242.244,
+      "vote_count": 1680,
+      "video": false,
+      "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "id": 530915,
+      "adult": false,
+      "backdrop_path": "/tJgmraUAmVlJPlq72yC76tKDyC4.jpg",
+      "original_language": "en",
+      "original_title": "1917",
+      "genre_ids": [18, 36, 10752],
+      "title": "1917",
+      "vote_average": 8.1,
+      "overview": "At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission. In a race against time, they must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers—Blake's own brother among them.",
+      "release_date": "2019-12-10"
+    },
+    "createdAt": "2020-02-02T02:07:11.688Z"
   },
   {
-    "id": "4",
+    "id": "85d7f348-395b-4b62-ab4e-6c6badf60542",
+    "name": "Robert",
+    "email": "robert@gmail.com",
+    "favorite_movie": {
+      "popularity": 54.57,
+      "vote_count": 1828,
+      "video": false,
+      "poster_path": "/hD42EDHLap5UVmv9CZrUiTxH3rY.jpg",
+      "id": 103663,
+      "adult": false,
+      "backdrop_path": "/guJLZQ0glrGpyOydxrpvnlNByae.jpg",
+      "original_language": "da",
+      "original_title": "Jagten",
+      "genre_ids": [18],
+      "title": "The Hunt",
+      "vote_average": 8,
+      "overview": "A teacher lives a lonely life, all the while struggling over his son’s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+      "release_date": "2012-09-24"
+    },
+    "createdAt": "2020-02-02T02:07:48.364Z"
+  },
+  {
+    "id": "3dd3aadd-ff59-4534-9670-43160e53cc31",
     "name": "Sam",
     "email": "sam@gmail.com",
-    "createdAt": "2020-01-31"
+    "favorite_movie": {
+      "popularity": 89.591,
+      "vote_count": 1067,
+      "video": false,
+      "poster_path": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "id": 515001,
+      "adult": false,
+      "backdrop_path": "/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "original_language": "en",
+      "original_title": "Jojo Rabbit",
+      "genre_ids": [35, 18, 10752],
+      "title": "Jojo Rabbit",
+      "vote_average": 8.1,
+      "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+      "release_date": "2019-10-18"
+    },
+    "createdAt": "2020-02-02T02:08:06.713Z"
   }
 ]
