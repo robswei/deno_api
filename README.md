@@ -7,7 +7,7 @@ Database consists of a local JSON file
 
 # Current Routes
 
-| Method | Route | Response |
+| Method | Route | Body | Response |
 | --- | --- | --- |
-| `GET` | `/users` | Return all users in db |
-| `POST` | `/users` | Creates a user and stores into db |
+| `GET` | `/users` | N/A | Return all users in db |
+| `POST` | `/users` | `name: string`, `email: string` | Creates a user and stores into db |
